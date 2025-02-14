@@ -11,6 +11,12 @@ This is the frontend of an **Amazon Clone**, built using modern web technologies
 - **html** - Frontend framework
 - **CSS** - Styling
 
+## 🤩 Final output
+![image](https://github.com/user-attachments/assets/32ce681c-d945-46ee-b9b7-0384f164a3f7)
+![image](https://github.com/user-attachments/assets/3e02cbbb-a1f8-481c-b5d5-40902b6434de)
+
+
+
 ## 🎯 Future features
 
 - 🔹 User authentication (Signup/Login)
