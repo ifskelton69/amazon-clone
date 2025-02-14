@@ -41,4 +41,4 @@ This project is licensed under the MIT License.
 
 ## 📬 Contact
 
-For any inquiries, reach out to **[Your Name]** at **[your.email@example.com](mailto\:your.email@example.com)** or connect via [GitHub](https://github.com/ifskelton69).
+For any inquiries, reach out to **[Aditya birajdar]** at or connect via [GitHub](https://github.com/ifskelton69).
