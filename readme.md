@@ -27,7 +27,7 @@ This is the frontend of an **Amazon Clone**, built using modern web technologies
 
 ## 🔧 Installation & Setup
 
-   git clone ttps://github.com/ifskelton69/amazon-clone-front-end-?tab=MIT-1-ov-file
+   git clone https://github.com/ifskelton69/amazon-clone-front-end-?tab=MIT-1-ov-file
    cd amazon-clone-front-end
 
 
